@@ -1,0 +1,15 @@
+﻿@model CategoryDetailVM
+
+
+
+<div class="container mt-5">
+
+    <div class="form-group">
+        <input asp-for="Name" disabled type="text" class="form-control">
+        @if (Model.ProductCount != 0)
+         {
+            <h3>Productcount: @Model.ProductCount</h3>
+         }
+         <a class="btn btn-primary" asp-controller="Category" asp-action="Index">Back</a>
+    </div>
+</div>

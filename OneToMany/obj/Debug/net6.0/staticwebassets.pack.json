@@ -1,0 +1,1973 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/extra-libs/sparkline/sparkline.js",
+      "PackagePath": "staticwebassets/admin/assets/extra-libs/sparkline/sparkline.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/custom-select.png",
+      "PackagePath": "staticwebassets/admin/assets/images/custom-select.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/favicon.png",
+      "PackagePath": "staticwebassets/admin/assets/images/favicon.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/free-demo.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/free-demo.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/logo-icon.png",
+      "PackagePath": "staticwebassets/admin/assets/images/logo-icon.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/logo-light-icon.png",
+      "PackagePath": "staticwebassets/admin/assets/images/logo-light-icon.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/logo-light-text.png",
+      "PackagePath": "staticwebassets/admin/assets/images/logo-light-text.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/logo-text.png",
+      "PackagePath": "staticwebassets/admin/assets/images/logo-text.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/nice-lite-lp-img.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/nice-lite-lp-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/nice-pro-lp-img.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/nice-pro-lp-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/pro-demo.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/pro-demo.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/users/1.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/users/1.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/users/2.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/users/2.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/users/4.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/users/4.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/images/users/5.jpg",
+      "PackagePath": "staticwebassets/admin/assets/images/users/5.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/chartist/dist/chartist.min.css",
+      "PackagePath": "staticwebassets/admin/assets/libs/chartist/dist/chartist.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/chartist/dist/chartist.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/chartist/dist/chartist.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/chartist/dist/chartist.min.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/chartist/dist/chartist.min.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/jquery/dist/core.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/jquery/dist/core.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/ender.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/ender.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/af.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/af.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ar-dz.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ar-dz.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ar-kw.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ar-kw.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ar-ly.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ar-ly.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ar-ma.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ar-ma.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ar-sa.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ar-sa.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ar-tn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ar-tn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ar.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ar.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/az.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/az.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/be.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/be.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/bg.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/bg.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/bm.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/bm.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/bn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/bn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/bo.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/bo.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/br.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/br.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/bs.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/bs.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ca.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ca.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/cs.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/cs.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/cv.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/cv.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/cy.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/cy.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/da.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/da.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/de-at.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/de-at.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/de-ch.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/de-ch.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/de.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/de.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/dv.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/dv.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/el.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/el.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/en-au.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/en-au.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/en-ca.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/en-ca.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/en-gb.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/en-gb.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/en-ie.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/en-ie.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/en-il.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/en-il.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/en-nz.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/en-nz.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/eo.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/eo.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/es-do.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/es-do.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/es-us.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/es-us.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/es.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/es.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/et.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/et.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/eu.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/eu.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/fa.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/fa.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/fi.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/fi.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/fo.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/fo.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/fr-ca.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/fr-ca.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/fr-ch.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/fr-ch.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/fr.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/fr.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/fy.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/fy.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/gd.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/gd.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/gl.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/gl.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/gom-latn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/gom-latn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/gu.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/gu.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/he.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/he.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/hi.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/hi.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/hr.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/hr.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/hu.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/hu.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/hy-am.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/hy-am.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/id.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/id.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/is.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/is.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/it.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/it.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ja.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ja.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/jv.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/jv.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ka.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ka.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/kk.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/kk.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/km.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/km.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/kn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/kn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ko.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ko.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ky.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ky.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/lb.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/lb.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/lo.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/lo.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/lt.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/lt.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/lv.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/lv.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/me.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/me.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/mi.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/mi.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/mk.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/mk.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ml.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ml.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/mn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/mn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/mr.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/mr.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ms-my.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ms-my.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ms.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ms.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/mt.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/mt.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/my.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/my.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/nb.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/nb.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ne.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ne.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/nl-be.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/nl-be.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/nl.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/nl.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/nn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/nn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/pa-in.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/pa-in.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/pl.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/pl.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/pt-br.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/pt-br.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/pt.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/pt.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ro.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ro.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ru.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ru.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sd.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sd.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/se.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/se.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/si.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/si.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sk.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sk.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sl.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sl.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sq.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sq.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sr-cyrl.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sr-cyrl.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sr.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sr.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ss.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ss.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sv.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sv.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/sw.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/sw.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ta.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ta.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/te.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/te.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tet.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tet.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tg.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tg.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/th.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/th.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tl-ph.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tl-ph.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tlh.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tlh.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tr.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tr.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tzl.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tzl.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tzm-latn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tzm-latn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/tzm.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/tzm.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ug-cn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ug-cn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/uk.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/uk.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/ur.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/ur.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/uz-latn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/uz-latn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/uz.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/uz.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/vi.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/vi.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/x-pseudo.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/x-pseudo.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/yo.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/yo.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/zh-cn.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/zh-cn.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/zh-hk.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/zh-hk.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/locale/zh-tw.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/locale/zh-tw.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/min/locales.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/min/locales.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/min/moment-with-locales.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/min/moment-with-locales.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/min/moment.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/min/moment.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/moment.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/moment.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/moment/package.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/moment/package.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/popper.js/dist/esm/popper-utils.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/popper.js/dist/esm/popper-utils.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/popper.js/dist/esm/popper.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/popper.js/dist/esm/popper.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/popper.js/dist/popper-utils.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/popper.js/dist/popper-utils.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/popper.js/dist/popper.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/popper.js/dist/popper.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/popper.js/dist/umd/popper-utils.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/popper.js/dist/umd/popper-utils.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/popper.js/dist/umd/popper.min.js",
+      "PackagePath": "staticwebassets/admin/assets/libs/popper.js/dist/umd/popper.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/assets/libs/popper.js/dist/umd/popper.min.js.map",
+      "PackagePath": "staticwebassets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/css/product.css",
+      "PackagePath": "staticwebassets/admin/css/product.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/css/style.css",
+      "PackagePath": "staticwebassets/admin/css/style.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/css/style.css.map",
+      "PackagePath": "staticwebassets/admin/css/style.css.map"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/css/material-design-iconic-font.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/css/material-design-iconic-font.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/fonts/themify.eot",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/fonts/themify.svg",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/ie7/ie7.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/ie7/ie7.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/ie7/ie7.js",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/ie7/ie7.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/themify-icons.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/themify-icons.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/themify-icons/themify-icons.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/themify-icons/themify-icons.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/css/weather-icons-core.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/css/weather-icons-core.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/css/weather-icons-variables.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/css/weather-icons-variables.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/css/weather-icons-wind.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/css/weather-icons-wind.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/css/weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/css/weather-icons-wind.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/css/weather-icons.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/css/weather-icons.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/css/weather-icons.min.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/css/weather-icons.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-beaufort.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-beaufort.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-day.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-day.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-direction.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-direction.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-misc.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-misc.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-moon.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-moon.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-neutral.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-neutral.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-night.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-night.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-time.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-time.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/css/variables-wind-names.css",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/css/variables-wind-names.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-beaufort.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-beaufort.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-day.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-day.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-direction.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-direction.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-misc.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-misc.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-moon-aliases.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-moon-aliases.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-moon.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-moon.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-neutral.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-neutral.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-night.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-night.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-time.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-time.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-wind-aliases.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-wind-aliases.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-wind-degrees.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-wind-degrees.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-classes/classes-wind.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-classes/classes-wind.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-beaufort.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-beaufort.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-day.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-day.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-direction.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-direction.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-misc.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-misc.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-moon.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-moon.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-neutral.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-neutral.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-night.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-night.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-time.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-time.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/icon-variables/variables-wind-names.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/icon-variables/variables-wind-names.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/mappings/wi-forecast-io.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/mappings/wi-forecast-io.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/mappings/wi-owm.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/mappings/wi-owm.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/mappings/wi-wmo4680.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/mappings/wi-wmo4680.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/mappings/wi-yahoo.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/mappings/wi-yahoo.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/weather-icons-classes.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/weather-icons-classes.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/weather-icons-core.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/weather-icons-core.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/weather-icons-variables.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/weather-icons-variables.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/weather-icons-wind.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/weather-icons-wind.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/weather-icons-wind.min.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/weather-icons-wind.min.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/weather-icons.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/weather-icons.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/less/weather-icons.min.less",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/less/weather-icons.min.less"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-beaufort.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-beaufort.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-day.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-day.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-direction.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-direction.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-misc.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-misc.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-moon-aliases.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-moon-aliases.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-moon.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-moon.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-neutral.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-neutral.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-night.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-night.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-time.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-time.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-wind-aliases.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-wind-aliases.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-wind-degrees.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-wind-degrees.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-wind.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-classes/classes-wind.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-beaufort.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-beaufort.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-day.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-day.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-direction.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-direction.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-misc.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-misc.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-moon.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-moon.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-neutral.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-neutral.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-night.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-night.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-time.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-time.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-wind-names.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/icon-variables/variables-wind-names.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/mappings/wi-forecast-io.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/mappings/wi-forecast-io.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/mappings/wi-owm.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/mappings/wi-owm.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/mappings/wi-wmo4680.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/mappings/wi-wmo4680.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/mappings/wi-yahoo.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/mappings/wi-yahoo.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/weather-icons-classes.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/weather-icons-classes.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/weather-icons-core.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/weather-icons-core.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/weather-icons-variables.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/weather-icons-variables.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/weather-icons-wind.min.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/weather-icons-wind.min.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/weather-icons-wind.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/weather-icons-wind.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/weather-icons.min.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/weather-icons.min.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/icons/weather-icons/sass/weather-icons.scss",
+      "PackagePath": "staticwebassets/admin/dist/css/icons/weather-icons/sass/weather-icons.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/style.css",
+      "PackagePath": "staticwebassets/admin/dist/css/style.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/style.min - Copy.css",
+      "PackagePath": "staticwebassets/admin/dist/css/style.min - Copy.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/css/style.min.css",
+      "PackagePath": "staticwebassets/admin/dist/css/style.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/js/custom.js",
+      "PackagePath": "staticwebassets/admin/dist/js/custom.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/js/custom.min.js",
+      "PackagePath": "staticwebassets/admin/dist/js/custom.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/js/pages/dashboards/dashboard1.js",
+      "PackagePath": "staticwebassets/admin/dist/js/pages/dashboards/dashboard1.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/js/sidebarmenu.js",
+      "PackagePath": "staticwebassets/admin/dist/js/sidebarmenu.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/dist/js/waves.js",
+      "PackagePath": "staticwebassets/admin/dist/js/waves.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/landingpage/index.html",
+      "PackagePath": "staticwebassets/admin/landingpage/index.html"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/_components.scss",
+      "PackagePath": "staticwebassets/admin/scss/_components.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/_custom.scss",
+      "PackagePath": "staticwebassets/admin/scss/_custom.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/_pages.scss",
+      "PackagePath": "staticwebassets/admin/scss/_pages.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/_responsive.scss",
+      "PackagePath": "staticwebassets/admin/scss/_responsive.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/_variable.scss",
+      "PackagePath": "staticwebassets/admin/scss/_variable.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/admin/scss/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/_core.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/_core.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/animation/_animation.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/animation/_animation.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/breadcrumb/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/breadcrumb/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/buttons/_buttons.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/buttons/_buttons.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/extra/_extra.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/extra/_extra.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/layout/_layout.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/layout/_layout.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/loader/_spinner.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/loader/_spinner.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/scafholdings/_scafholding.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/scafholdings/_scafholding.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/sidebar/_sidebar.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/sidebar/_sidebar.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/tables/_table-pages.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/tables/_table-pages.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/topbar/_header.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/topbar/_header.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/core/wave-effects/_wave-effects.scss",
+      "PackagePath": "staticwebassets/admin/scss/core/wave-effects/_wave-effects.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/mixins/_padding-margin.scss",
+      "PackagePath": "staticwebassets/admin/scss/mixins/_padding-margin.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/pages/dashboards/_dashboard.scss",
+      "PackagePath": "staticwebassets/admin/scss/pages/dashboards/_dashboard.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/style.scss",
+      "PackagePath": "staticwebassets/admin/scss/style.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/theme-colors/_theme-colors.scss",
+      "PackagePath": "staticwebassets/admin/scss/theme-colors/_theme-colors.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/widgets/_comments.scss",
+      "PackagePath": "staticwebassets/admin/scss/widgets/_comments.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/admin/scss/widgets/_widgets.scss",
+      "PackagePath": "staticwebassets/admin/scss/widgets/_widgets.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets/img/blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets/img/blog-feature-img-3.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets/img/blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/footer-bottom-1.png",
+      "PackagePath": "staticwebassets/img/footer-bottom-1.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h1-custom-icon.png",
+      "PackagePath": "staticwebassets/img/h1-custom-icon.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h2-sign-img.png",
+      "PackagePath": "staticwebassets/img/h2-sign-img.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-background-img.jpg",
+      "PackagePath": "staticwebassets/img/h3-background-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-slider-background-2.jpg",
+      "PackagePath": "staticwebassets/img/h3-slider-background-2.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-slider-background-3.jpg",
+      "PackagePath": "staticwebassets/img/h3-slider-background-3.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-slider-background.jpg",
+      "PackagePath": "staticwebassets/img/h3-slider-background.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-team-img-1.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-1.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-team-img-2.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-2.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-team-img-3.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-3.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-team-img-4.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-4.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/h3-video-img.jpg",
+      "PackagePath": "staticwebassets/img/h3-video-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram1.jpg",
+      "PackagePath": "staticwebassets/img/instagram1.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram2.jpg",
+      "PackagePath": "staticwebassets/img/instagram2.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram3.jpg",
+      "PackagePath": "staticwebassets/img/instagram3.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram4.jpg",
+      "PackagePath": "staticwebassets/img/instagram4.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram5.jpg",
+      "PackagePath": "staticwebassets/img/instagram5.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram6.jpg",
+      "PackagePath": "staticwebassets/img/instagram6.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram7.jpg",
+      "PackagePath": "staticwebassets/img/instagram7.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/instagram8.jpg",
+      "PackagePath": "staticwebassets/img/instagram8.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-10-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-10-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-11-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-11-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-12-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-12-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-13-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-13-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-14-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-14-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-7-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-7-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-8-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-8-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-9-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-9-img.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-category-img-1.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-1.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-category-img-2.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-2.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-3.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-category-img-4.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-4.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-category-img-5.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-5.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/shop-category-img-6.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-6.jpg"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/testimonial-img-1.png",
+      "PackagePath": "staticwebassets/img/testimonial-img-1.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/img/testimonial-img-2.png",
+      "PackagePath": "staticwebassets/img/testimonial-img-2.png"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/js/blog.js",
+      "PackagePath": "staticwebassets/js/blog.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/owlcarousel/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/owlcarousel/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/owlcarousel/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/owlcarousel/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/lib/_common.scss",
+      "PackagePath": "staticwebassets/sass/lib/_common.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/lib/_mixins.scss",
+      "PackagePath": "staticwebassets/sass/lib/_mixins.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/lib/_varibales.scss",
+      "PackagePath": "staticwebassets/sass/lib/_varibales.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_about.scss",
+      "PackagePath": "staticwebassets/sass/sections/_about.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_accordion.scss",
+      "PackagePath": "staticwebassets/sass/sections/_accordion.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_blog.scss",
+      "PackagePath": "staticwebassets/sass/sections/_blog.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_experts.scss",
+      "PackagePath": "staticwebassets/sass/sections/_experts.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_footer.scss",
+      "PackagePath": "staticwebassets/sass/sections/_footer.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_header.scss",
+      "PackagePath": "staticwebassets/sass/sections/_header.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_instagram.scss",
+      "PackagePath": "staticwebassets/sass/sections/_instagram.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_product-list.scss",
+      "PackagePath": "staticwebassets/sass/sections/_product-list.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_product.scss",
+      "PackagePath": "staticwebassets/sass/sections/_product.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_progress.scss",
+      "PackagePath": "staticwebassets/sass/sections/_progress.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_say.scss",
+      "PackagePath": "staticwebassets/sass/sections/_say.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_shop-list.scss",
+      "PackagePath": "staticwebassets/sass/sections/_shop-list.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_slider.scss",
+      "PackagePath": "staticwebassets/sass/sections/_slider.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_subscribe.scss",
+      "PackagePath": "staticwebassets/sass/sections/_subscribe.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/sections/_tab.scss",
+      "PackagePath": "staticwebassets/sass/sections/_tab.scss"
+    },
+    {
+      "Id": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/wwwroot/sass/style.scss",
+      "PackagePath": "staticwebassets/sass/style.scss"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.OneToMany.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.OneToMany.props",
+      "PackagePath": "build\\OneToMany.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.OneToMany.props",
+      "PackagePath": "buildMultiTargeting\\OneToMany.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.OneToMany.props",
+      "PackagePath": "buildTransitive\\OneToMany.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
