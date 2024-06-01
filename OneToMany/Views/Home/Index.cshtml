@@ -1,45 +1,19 @@
-﻿    @model HomeVM
+﻿@model HomeVM
 
+
+@section js{
+    <script src="~/js/basket.js"></script>
+}
 
 <main>
 
     <!-- SLIDER START -->
 
-    <section id="slider">
-        <div class="owl-carousel slider">
-            @*@for (int i = 0; i < Model.Sliders.Count; i++)
-        {
-
-           <div> <img src="~/img/@Model.Sliders[i].Image" alt=""> </div>
-
-        }*@
-
-            @foreach (var item in Model.Sliders)
-             {
-                <div> <img src="~/img/@item.Image" alt=""> </div>
-
-             }
-        </div>
-        <div class="container context pl-lg-5 ml-lg-3">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="text">
-                        @Html.Raw(Model.SliderInfo.Title)
-                        <p class="text-black-50 d-none d-sm-block">
-                            @Model.SliderInfo.Despcirption
-                        </p>
-                    </div>
-                    <div class="img">
-                        <img src="~/img/@Model.SliderInfo.Signature" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    @await Component.InvokeAsync("Slider")
 
     <!-- SLIDER END -->
     <!-- PRODUCTS START -->
-
+        
     <section id="products">
         <div class="container">
             <div class="row pt-5">
@@ -77,26 +51,26 @@
             </div>
             <div class="row">
                 @foreach (var item in Model.Products)
-                    {
+                {
 
 
-                <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
-                    <div class="product-item text-center" data-id="@item.CategoryId">
-                        <div class="img">
-                            <a asp-controller="Product" asp-action="Index" asp-route-id="@item.Id">
-                                <img src="~/img/@item.ProductImages.FirstOrDefault(m=>m.IsMain)?.Name" class="img-fluid" alt="">
-                            </a>
-                        </div>
-                        <div class="title mt-3">
-                            <h6>@item.Name</h6>
-                        </div>
-                        <div class="price">
-                            <span class="text-black-50">Add to cart</span>
-                            <span class="text-black-50">@item.Price</span>
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
+                        <div class="product-item text-center" data-id="@item.CategoryId">
+                            <div class="img">
+                                <a asp-controller="Product" asp-action="Index" asp-route-id="@item.Id">
+                                    <img src="~/img/@item.ProductImages.FirstOrDefault(m=>m.IsMain)?.Name" class="img-fluid" alt="">
+                                </a>
+                            </div>
+                            <div class="title mt-3">
+                                <h6>@item.Name</h6>
+                            </div>
+                            <div class="price">
+                                <span class="text-black-50 add-product-basket" data-id="@item.Id">Add to cart</span>
+                                <span class="text-black-50">@item.Price</span>
+                            </div>
                         </div>
                     </div>
-                </div>
-                    }
+                }
             </div>
         </div>
     </section>
@@ -263,7 +237,7 @@
                 <div class="col-md-8 col-xl-6">
                     <div class="owl-carousel say">
                         @foreach (var item in Model.Says)
-                         {
+                        {
                             <div>
 
                                 <div class="item text-center">
@@ -282,7 +256,7 @@
                                 </div>
                             </div>
 
-                         }
+                        }
 
                     </div>
                 </div>
@@ -296,9 +270,9 @@
     <section id="instagram">
         <div class="owl-carousel instagram">
             @foreach (var item in Model.SliderInstas)
-             {
-                 <div><img src="~/img/@item.Image" class="img-fluid" alt=""></div>
-             }
+            {
+                <div><img src="~/img/@item.Image" class="img-fluid" alt=""></div>
+            }
         </div>
         <div class="hastag bg-light text-muted py-2 px-3">
             #FIORELLO

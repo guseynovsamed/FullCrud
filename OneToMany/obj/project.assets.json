@@ -10693,11 +10693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/OneToMany.csproj",
+      "projectUniqueName": "/Users/samedguseynov/Backend/PaginationCrud/OneToMany/OneToMany.csproj",
       "projectName": "OneToMany",
-      "projectPath": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/OneToMany.csproj",
+      "projectPath": "/Users/samedguseynov/Backend/PaginationCrud/OneToMany/OneToMany.csproj",
       "packagesPath": "/Users/samedguseynov/.nuget/packages/",
-      "outputPath": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/obj/",
+      "outputPath": "/Users/samedguseynov/Backend/PaginationCrud/OneToMany/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samedguseynov/.nuget/NuGet/NuGet.Config"

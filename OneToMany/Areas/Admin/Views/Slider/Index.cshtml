@@ -1,0 +1,35 @@
+﻿@model List<SliderVM>
+
+
+
+<div class="container mt-5">
+    <div class="create-category ">
+        <a asp-area="Admin" asp-controller="Slider" asp-action="Create" class="btn btn-success text-white mr-10">Create</a>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th class="border-top-0">Image</th>
+                    <th class="border-top-0">Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="txt-oflo">
+                            <img src="~/img/@item.Image" style="width:200px !important; height:200px" />
+                        </td>
+                        <td>
+                            <a class="btn btn-info text-white" asp-action="Detail" asp-route-id="@item.Id">Info</a>
+                            <a class="btn btn-warning text-white" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            <form class="form-horizontal d-inline mt-4" method="post" asp-action="Delete" asp-route-id="@item.Id">
+                                <button type="submit" class="btn btn-danger text-white">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+        </table>
+    </div>
+</div>

@@ -112,6 +112,15 @@ $(document).ready(function () {
         })
     })
 
+  
+
+
+
+
+
+
+
+
     // INSTAGRAM
 
     $(document).ready(function(){

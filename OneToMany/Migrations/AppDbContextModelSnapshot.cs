@@ -34,18 +34,15 @@ namespace OneToMany.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Image")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("SoftDeleted")
                         .HasColumnType("bit");
 
                     b.Property<string>("Title")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -56,7 +53,7 @@ namespace OneToMany.Migrations
                         new
                         {
                             Id = 1,
-                            Date = new DateTime(2024, 5, 11, 7, 26, 34, 625, DateTimeKind.Local).AddTicks(2860),
+                            Date = new DateTime(2024, 5, 22, 20, 54, 1, 0, DateTimeKind.Local).AddTicks(1860),
                             Description = "Description1",
                             Image = "blog-feature-img-1.jpg",
                             SoftDeleted = false,
@@ -65,7 +62,7 @@ namespace OneToMany.Migrations
                         new
                         {
                             Id = 2,
-                            Date = new DateTime(2024, 5, 11, 7, 26, 34, 625, DateTimeKind.Local).AddTicks(2890),
+                            Date = new DateTime(2024, 5, 22, 20, 54, 1, 0, DateTimeKind.Local).AddTicks(1880),
                             Description = "Description2",
                             Image = "blog-feature-img-3.jpg",
                             SoftDeleted = false,
@@ -74,7 +71,7 @@ namespace OneToMany.Migrations
                         new
                         {
                             Id = 3,
-                            Date = new DateTime(2024, 5, 11, 7, 26, 34, 625, DateTimeKind.Local).AddTicks(2890),
+                            Date = new DateTime(2024, 5, 22, 20, 54, 1, 0, DateTimeKind.Local).AddTicks(1880),
                             Description = "Description3",
                             Image = "blog-feature-img-4.jpg",
                             SoftDeleted = false,
@@ -91,7 +88,6 @@ namespace OneToMany.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("SoftDeleted")
@@ -114,11 +110,9 @@ namespace OneToMany.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Price")
@@ -146,7 +140,6 @@ namespace OneToMany.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("ProductId")
@@ -171,23 +164,42 @@ namespace OneToMany.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
 
                     b.Property<string>("Author")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Image")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("SoftDeleted")
                         .HasColumnType("bit");
 
                     b.Property<string>("Text")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Says");
+                });
+
+            modelBuilder.Entity("OneToMany.Models.Setting", b =>
+                {
+                    b.Property<int?>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
+
+                    b.Property<string>("Key")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("SoftDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Value")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Settings");
                 });
 
             modelBuilder.Entity("OneToMany.Models.Slider", b =>
@@ -199,7 +211,6 @@ namespace OneToMany.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
 
                     b.Property<string>("Image")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("SoftDeleted")

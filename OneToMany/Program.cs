@@ -19,6 +19,9 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<ISayService, SayService>();
 builder.Services.AddScoped<ISliderInstaSerivce, SliderInstaService>();
+builder.Services.AddScoped<ISettingService, SettingService>();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
 
 
 

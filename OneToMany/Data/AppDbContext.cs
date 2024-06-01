@@ -24,6 +24,8 @@ namespace OneToMany.Data
 
         public DbSet<SliderInsta> SliderInstas { get; set; }
 
+        public DbSet<Setting> Settings { get; set; }
+
 
 
         //seeding

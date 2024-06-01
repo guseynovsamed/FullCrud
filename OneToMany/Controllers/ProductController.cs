@@ -19,7 +19,7 @@ namespace OneToMany.Controllers
             _productService = productService;
         }
 
-
+        [HttpGet]
         public async Task<IActionResult> Index(int? id)
         {
             if (id is null) return BadRequest();

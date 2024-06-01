@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>ecdd8c26-8367-4b59-88de-e030ab36e290</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,6 +27,18 @@
     <None Remove="Areas\Admin\Views\Category\" />
     <None Remove="Areas\Admin\Views\Shared\" />
     <None Remove="ViewModels\Categories\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Slider\" />
+    <None Remove="Views\Shared\Components\Header\" />
+    <None Remove="Areas\Admin\Views\Slider\" />
+    <None Remove="ViewModels\Sliders\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\Extension\" />
+    <None Remove="ViewModels\Baskets\" />
+    <None Remove="Views\Cart\" />
+    <None Remove="Areas\Admin\Views\Product\" />
+    <None Remove="ViewModels\Products\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -54,6 +67,18 @@
     <Folder Include="wwwroot\admin\landingpage\" />
     <Folder Include="wwwroot\admin\scss\" />
     <Folder Include="ViewModels\Categories\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Slider\" />
+    <Folder Include="Views\Shared\Components\Header\" />
+    <Folder Include="Areas\Admin\Views\Slider\" />
+    <Folder Include="ViewModels\Sliders\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\Extension\" />
+    <Folder Include="ViewModels\Baskets\" />
+    <Folder Include="Views\Cart\" />
+    <Folder Include="Areas\Admin\Views\Product\" />
+    <Folder Include="ViewModels\Products\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpqw37seqTbrVz+XlMS3tc9WOvVvMMEyJkOq6y6EYIw3YP0+bxg97wtLZKxUXVgY9WTiNCbqndsv/1Muom43uQ==",
+  "dgSpecHash": "8/MYVO5LDEyT4L1sy8GQ34Blsd+9ifu4WhYy++tZJJ7xzehDSiQgKes2pQVHYLLynfrM0LfVC54WjVtgWyPm6w==",
   "success": true,
-  "projectFilePath": "/Users/samedguseynov/Backend/CategoryFullCrud/OneToMany/OneToMany.csproj",
+  "projectFilePath": "/Users/samedguseynov/Backend/PaginationCrud/OneToMany/OneToMany.csproj",
   "expectedPackageFiles": [
     "/Users/samedguseynov/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/samedguseynov/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
